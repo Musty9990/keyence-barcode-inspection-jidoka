@@ -95,7 +95,7 @@ The project documentation identifies the following scenarios as relevant for val
 - [ ] Reset input clears the intended statuses and counters
 - [ ] Repeated cycles do not leave stale result indications
 
-Use [`docs/test-plan.md`](docs/test-plan.md) to document setup, expected behavior and observed results.
+
 
 ## Known scope and limitations
 
@@ -128,7 +128,7 @@ This repository is intended for educational demonstration and portfolio review. 
 
 ## Author
 
-Add your name, portfolio URL and LinkedIn profile here.
 
-- Portfolio: `[add URL]`
-- LinkedIn: `[add URL]`
+
+Mustafa Yurtseven
+- LinkedIn: https://www.linkedin.com/in/mustafa-yurtseven-769922284/
