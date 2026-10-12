@@ -131,5 +131,5 @@ This repository is intended for educational demonstration and portfolio review. 
 
 Add your name, portfolio URL and LinkedIn profile here.
 
-- Portfolio: `[add URL]`
-- LinkedIn: `[add URL]`
+- Mustafa YURTSEVEN 
+- LinkedIn: https://www.linkedin.com/in/mustafa-yurtseven-769922284/
